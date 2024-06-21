@@ -1,0 +1,10 @@
+flask==2.3.3
+Flask-Admin==1.6.1
+flask-restx==1.2.0
+flask-cors==3.0.10
+Flask-SQLAlchemy==3.1.1
+gunicorn==21.2.0
+psycopg2-binary==2.9.9
+Werkzeug==2.3.8
+flask-bcrypt==1.0.1
+pyjwt==2.6.0
